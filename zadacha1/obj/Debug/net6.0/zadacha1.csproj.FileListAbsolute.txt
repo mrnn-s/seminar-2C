@@ -1,0 +1,15 @@
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.csproj.AssemblyReference.cache
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.AssemblyInfoInputs.cache
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.AssemblyInfo.cs
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.csproj.CoreCompileInputs.cache
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/bin/Debug/net6.0/zadacha1
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/bin/Debug/net6.0/zadacha1.deps.json
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/bin/Debug/net6.0/zadacha1.runtimeconfig.json
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/bin/Debug/net6.0/zadacha1.dll
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/bin/Debug/net6.0/zadacha1.pdb
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.dll
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/refint/zadacha1.dll
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.pdb
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/zadacha1.genruntimeconfig.cache
+/Users/mariannasarkisan/Desktop/seminar 2C/zadacha1/obj/Debug/net6.0/ref/zadacha1.dll
